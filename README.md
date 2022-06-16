@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @SamuelHarner
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
-- 📫 Reach me at: sharner@kth.se
+- 📫 Reach me at: harner.samuel@gmail.com
 --->
 
 <!---
